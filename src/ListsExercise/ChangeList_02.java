@@ -18,7 +18,6 @@ public class ChangeList_02 {
         while (!input.equals("end")){
 
 
-
             input = scan.nextLine();
         }
 
